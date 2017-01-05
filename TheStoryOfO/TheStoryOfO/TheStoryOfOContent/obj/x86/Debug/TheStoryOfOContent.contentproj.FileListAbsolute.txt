@@ -1,0 +1,6 @@
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache
+E:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\obj\x86\Debug\TheStoryOfOContent.contentprojResolveAssemblyReference.cache

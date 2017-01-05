@@ -1,0 +1,89 @@
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.exe
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.pdb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb
+C:\Users\GameJam16\Desktop\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.exe
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.pdb
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+I:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.exe
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.pdb
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+D:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.exe
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.pdb
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+J:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.exe
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\TheStoryOfO.pdb
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb
+E:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.csprojResolveAssemblyReference.cache
+E:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.exe
+E:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\TheStoryOfO.pdb

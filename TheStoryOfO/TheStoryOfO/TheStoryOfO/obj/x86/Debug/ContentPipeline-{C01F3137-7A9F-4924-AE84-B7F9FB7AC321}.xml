@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Test background.bmp</Source>
+      <Name>Test background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Test background.xnb</Output>
+      <Time>2016-01-30T09:02:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>test.png</Source>
+      <Name>test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2016-01-30T16:41:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>A.png</Source>
+      <Name>A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\A.xnb</Output>
+      <Time>2016-01-30T10:58:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>O.png</Source>
+      <Name>O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\O.xnb</Output>
+      <Time>2016-01-30T11:05:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Level 1.png</Source>
+      <Name>Level 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\Level 1.xnb</Output>
+      <Time>2016-01-31T12:12:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-01-30T14:19:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DirtySnare.wav</Source>
+      <Name>DirtySnare</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\DirtySnare.xnb</Output>
+      <Time>2016-01-30T19:19:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>FastBass.wav</Source>
+      <Name>FastBass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\FastBass.xnb</Output>
+      <Time>2016-01-30T19:19:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LightBass.wav</Source>
+      <Name>LightBass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\LightBass.xnb</Output>
+      <Time>2016-01-30T19:19:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PianoBackGround.wav</Source>
+      <Name>PianoBackGround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\PianoBackGround.xnb</Output>
+      <Time>2016-01-30T19:19:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SlowDroppingBass.wav</Source>
+      <Name>SlowDroppingBass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\SlowDroppingBass.xnb</Output>
+      <Time>2016-01-30T19:19:04+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C01F3137-7A9F-4924-AE84-B7F9FB7AC321}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\TheStoryOfO\TheStoryOfO\TheStoryOfOContent\</RootDirectory>
+      <LoggerRootDirectory>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\TheStoryOfO\TheStoryOfO\TheStoryOfO\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-24T16:52:14.0057858+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
